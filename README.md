@@ -1,6 +1,7 @@
 # brewfile
 
 # Uninstallable apps
+- ATOK
 - Logi Options.app
 - Logi Capture.app
 
