@@ -1,6 +1,6 @@
-# brewfile
+# MacOS settings
 
-# Uninstallable apps
+# Uninstallable apps from homebrew
 - ATOK
 - Logi Options.app
 - Logi Capture.app
