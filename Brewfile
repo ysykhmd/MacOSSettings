@@ -43,3 +43,5 @@ mas "Magnet", id: 441258766
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Slack", id: 803453959
 mas "WiFi Explorer", id: 494803304
+mas "Final Cut Pro", id: 424389933
+mas "UpNote", id: 1398373917
